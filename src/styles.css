@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background: #20262e;
+  padding: 20px;
+  font-family: Helvetica;
+  color: #fff;
+  font-size: 16px;
+}
+.container {
+  display: grid;
+  place-items: center;
+}
+
+input {
+  font-size: 16px;
+}
+
+button {
+  margin: 0.35rem;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
